@@ -14,4 +14,5 @@ I recently pivoted my career to focus 100% on AI Agent Development. My backgroun
 
 ### 📫 Let's Connect!
 *   **LinkedIn:** [https://www.linkedin.com/in/mohamed-fathi-pm/]
+*   [📄 View / Download My CV](./Mohamed_Fathi_CV.pdf)
 *   **Email:** [string.mohamedfathi@gmail.com]
