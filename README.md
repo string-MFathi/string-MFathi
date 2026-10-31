@@ -1,8 +1,8 @@
 # Hi there, I'm Mohamed Fathi 👋
 
-**AI Agent Developer | Systems Architect**
+**AI Agent Developer & Technical Product Manager**
 
-I build autonomous AI agents and intelligent workflows that solve complex, real-world problems. With over 6 years of foundational experience in Software Engineering, Technical Product Management, and Operations, I bring a unique "systems-thinking" approach to AI architecture. I am currently focused entirely on developing scalable LLM-powered agents and automation ecosystems.
+AI Agent Developer & Technical Product Manager with 4+ years of experience delivering B2B and B2C SaaS and mobile products, now building autonomous AI agents in Python and LangGraph. Owns the full product lifecycle, from roadmap, API design and analytics to go-to-market, and writes production-grade code for LLM workflows with human-in-the-loop approval, persistent state and failure recovery. Combines product strategy with hands-on engineering to turn business workflows into reliable AI automation.
 
 ### 🧠 Current Focus & Tech Stack
 *   **AI & ML:** AI Agent Architecture, LLMs, Tool Calling (ReAct), Prompt Engineering, Scikit-learn.
